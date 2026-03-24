@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "chatgpt.com",
+        "gemini.google.com",
+        "aistudio.google.com",
+        "business.gemini.google",
+        "grok.com",
+        "x.com",
+        "perplexity.ai",
+        "claude.ai"
+      ]
+    }
+  ]
+}
