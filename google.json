@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "www.google.com",
+        "www.google.com.hk",
+        "www.google.co.jp",
+        "www.google.com.tw",
+        "www.google.co.kr",
+        "www.google.com.sg",
+        "passwords.google.com",
+        "passwords.google",
+        "one.google.com"
+      ]
+    }
+  ]
+}
